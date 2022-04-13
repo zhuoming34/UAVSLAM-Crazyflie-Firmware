@@ -3,3 +3,5 @@
 
 
 # TO BE UPDATED SOON
+
+![BigQuad compability with Flow V2](https://github.com/zhuoming34/UAVSLAM-Crazyflie-Firmware/blob/main/BigQuadwFlowV2_explained.JPG)
