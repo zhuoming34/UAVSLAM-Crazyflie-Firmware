@@ -2,7 +2,7 @@
  Firmware for Crazyflie v2.1 compatible with both BigQuad and Flow v2
 
 
-### Modify the following files:
+### Modified the following files:
 - config.mk
 - bigquad.c
 - flowdeck_v1v2.c
