@@ -4,6 +4,6 @@
 
 # TO BE UPDATED SOON
 
-![BigQuad compability with Flow V2](https://github.com/zhuoming34/UAVSLAM-Crazyflie-Firmware/blob/main/pic/BigQuadwFlowV2.JPG =250x250)
+![BigQuad compability with Flow V2](https://github.com/zhuoming34/UAVSLAM-Crazyflie-Firmware/blob/main/pic/BigQuadwFlowV2.JPG | width=100px)
 
 ![BigQuad compability with Flow V2 (explained)](https://github.com/zhuoming34/UAVSLAM-Crazyflie-Firmware/blob/main/pic/BigQuadwFlowV2_explained.JPG)
